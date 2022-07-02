@@ -1,0 +1,2 @@
+# PrzetwarzanieZbir-wDanych
+Pandas
